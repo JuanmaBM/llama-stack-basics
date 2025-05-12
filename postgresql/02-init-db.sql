@@ -1,1 +1,1 @@
-CREATE DATABASE llamastack OWNER citrus;
+CREATE DATABASE llamastack OWNER postgres;
